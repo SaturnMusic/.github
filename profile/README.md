@@ -1,7 +1,7 @@
 <html>
 <body>
 <div align="center">
-<img src="https://github.com/SaturnMusic/.github/blob/main/banner.png?raw=true" href="https://github.com/SaturnMusic/" alt="Logo" width="463" height="139.47">
+<p><a href="https://github.com/SaturnMusic/"><img src="https://github.com/SaturnMusic/.github/blob/main/banner.png?raw=true" alt="Logo" width="463" height="139.47"></a></p>
 <br>
 <h3>Freezer Reborn</h3>
 <h4>Your go-to <b>ToS Compliant</b> Custom Deezer Client</h4>
