@@ -9,6 +9,7 @@
 <h1> Available Clients </h1>
   <p><a href="https://github.com/SaturnMusic/pc"><img src="https://github.com/SaturnMusic/.github/blob/main/desktop.png?raw=true" alt="Logo" width="401" height="115.82"></a><a href="https://github.com/SaturnMusic/mobile"><img src="https://github.com/SaturnMusic/.github/blob/main/mobile.png?raw=true" alt="Logo" width="416" height="132.36"></a></p>
 <h2> Socials <h2>
+  <p><a href="https://t.me/SaturnReleases"><img src="https://github.com/SaturnMusic/.github/blob/main/telegram.png?raw=true" alt="Logo" width="100" height="100"></a><a href="https://saturnclient.dev/discord"><img src="https://github.com/SaturnMusic/.github/blob/main/discord.png?raw=true" alt="Logo" width="100" height="100"></a><a href="https://saturnclient.dev/"><img src="https://github.com/SaturnMusic/.github/blob/main/web.png?raw=true" alt="Logo" width="100" height="100"></a><a href="https://x.com/"><img src="https://github.com/SaturnMusic/.github/blob/main/twitter.png?raw=true" alt="Logo" width="100" height="100"></a></p>
 </div>
 </body>
 </html>
