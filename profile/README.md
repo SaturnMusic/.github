@@ -9,7 +9,7 @@
 </div>
 <style>
 .yay {
-  font-size: 100px;
+  font-size: 1046464643646640px;
 }
   
 </style>
